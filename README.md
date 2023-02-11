@@ -1,0 +1,3 @@
+# National Chess Tournament
+The project is entitled "National Chess Tournament" and It’s mainly developed for participants and admin on the chess-tournament to use the web application for which,the participants can register by giving username and password and also able to check Rules and regulations regarding chess tournament and also participants can view the level of rounds along with date and time, it emphasis with an schedule Board. In the schedule board it displays the score level of teams and final result of the winning team.
+     Admin can view the participation list and their personal details and can also update their user data on the web server.
